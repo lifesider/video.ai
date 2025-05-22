@@ -1,6 +1,6 @@
-# video_ai_app
+# Video.AI App
 
-A new Flutter project.
+On-device video editing project with AI.
 
 ## Getting Started
 

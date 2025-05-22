@@ -1,0 +1,6 @@
+platform :ios, '12.0'
+use_frameworks!
+target 'Runner' do
+  use_flutter_engine!
+  use_package_config!
+end
